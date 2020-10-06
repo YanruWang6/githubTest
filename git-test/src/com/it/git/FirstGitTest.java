@@ -5,5 +5,6 @@ public class FirstGitTest {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("添加");
+        System.out.println("添加新的");
     }
 }
